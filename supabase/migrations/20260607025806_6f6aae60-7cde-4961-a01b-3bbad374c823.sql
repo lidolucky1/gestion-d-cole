@@ -1,0 +1,1 @@
+-- Vérification uniquaine — ne modifie rien
